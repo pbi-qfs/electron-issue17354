@@ -1,3 +1,13 @@
+To build:
+
+```
+cd app
+npm install
+npm dist
+```
+
+Java sources are already built.
+
 To start:
 
 ```
